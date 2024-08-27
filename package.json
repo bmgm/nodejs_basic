@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-crud",
+  "version": "1.0.0",
+  "description": "nodejs crud basic",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "nodejs",
+    "backend"
+  ],
+  "author": "Mangesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  }
+}
